@@ -1,0 +1,25 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="app_bar_height">180dp</dimen>
+    <dimen name="text_margin">16dp</dimen>
+
+
+    <!-- Intro Slides -->
+    <dimen name="dots_height">30dp</dimen>
+    <dimen name="dots_margin_bottom">20dp</dimen>
+    <dimen name="img_width_height">120dp</dimen>
+    <dimen name="slide_title">30dp</dimen>
+    <dimen name="slide_desc">16dp</dimen>
+    <dimen name="desc_padding">40dp</dimen>
+
+    <!-- Fab Button -->
+    <dimen name="design_fab_elevation">18dp</dimen>
+    <dimen name="design_fab_translation_z_pressed">18dp</dimen>
+    <dimen name="design_fab_content_size">72dp</dimen>
+    <dimen name="design_fab_size_normal">168dp</dimen>
+    <dimen name="design_fab_size_mini">120dp</dimen>
+    <dimen name="design_fab_border_width">1.5dp</dimen>
+</resources>

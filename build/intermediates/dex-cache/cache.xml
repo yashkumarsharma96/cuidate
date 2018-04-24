@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ram Kumar\.gradle\caches\transforms-1\files-1.1\MultiContactPicker-1.7.aar\5fcb67fd904115fab5b201be3af0554d\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="eda16933d64edd097a0c21bac5cf9acf1ea49f9a">
+        <dex dex="C:\Project-my\safe\app\build\intermediates\transforms\preDex\release\1\classes.dex" />
+    </item>
+
+</items>

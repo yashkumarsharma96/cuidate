@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Cuidate</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_home">Control Home</string>
+    <!-- Intro Strings-->
+   <string name="next">NEXT</string>
+   <string name="skip">SKIP</string>
+   <string name="start">GOT IT</string>
+
+   <string name="slide_1_title">Women Safety!!</string>
+   <string name="slide_1_desc">Women, an integral part of our socienty, are facing numerous challenges with respect to their safety and dignity. We have come together to build an application, to make them feel more secure. Using this appication, you would be able to inform your near ones regarding any danger that you might be facing</string>
+
+   <string name="slide_2_title">Emergency Contacts</string>
+   <string name="slide_2_desc">Select your emergency contacts, to whom you would like to send a help message in case of danger. Please provide us the permission to access the contacts for the same.</string>
+
+   <string name="slide_3_title">Messages</string>
+   <string name="slide_3_desc">You can send emergency messages to the selected contacts with a tap of a button</string>
+
+    <string name="slide_4_title">SMS</string>
+    <string name="slide_4_desc">When you are in danger, we would be sending a SMS with your location to your selected emergency contacts. Please provide us with the SMS access for the same in the next screen.</string>
+
+    <string name="slide_5_title">Location</string>
+    <string name="slide_5_desc">We need to access the device location to send it to your emergency contacts when you are in danger. Please provide us the Location access for the same in the next screen.</string>
+
+    <string name="slide_6_title">Camera</string>
+    <string name="slide_6_desc">Quickly access your default camera application with a press of a button</string>
+</resources>

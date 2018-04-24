@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="shatarupa.cuidate.Home"
+    tools:showIn="@layout/activity_home">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+            <android.support.design.widget.FloatingActionButton
+            android:id="@+id/helpButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_gravity="center_horizontal"
+                android:src="@drawable/help_icon"
+            android:drawingCacheQuality="high"
+            android:scaleType="center"
+            android:layout_marginTop="300dp" />
+        <TextView
+            android:id="@+id/lblLocation"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textStyle="italic"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="100dp"
+            android:textAlignment="center"
+            android:padding="15dp"
+            android:text="Your Current Location"
+            android:textColor="#000000"
+            android:textSize="24dp" />
+        <Button
+            android:id="@+id/cameraButton"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="500dp"
+            android:background="@drawable/button_image"
+            android:textColor="#000000"
+            android:textSize="25.0sp" />
+    </RelativeLayout>
+</android.support.v4.widget.NestedScrollView>
